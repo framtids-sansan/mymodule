@@ -9,7 +9,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/x/auth/types"
-	"github.com/framtids-sansan/mymodule/types"
+	"github.com/framtids-sansan/mymodule/extramint/types"
 )
 
 // Keeper defines the module interface without any functionality
