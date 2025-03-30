@@ -2,7 +2,7 @@ package keeper
 
 import (
 	"context"
-	"github/extramint/types"
+	"github.com/framtids-sansan/mymodule/extramint/types"
 )
 
 package keeper
