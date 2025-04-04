@@ -4,7 +4,7 @@ import (
 	"fmt"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/spf13/cobra"
-	"mymint/keeper"
+	"github.com/framtids-sansan/mymodule/mymint/keeper"
 	"strconv"
 )
 
