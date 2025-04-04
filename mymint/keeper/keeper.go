@@ -7,7 +7,7 @@ import (
 	//"encoding/json"
 	"github.com/cosmos/cosmos-sdk/codec"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"mymint/types"
+	"github.com/framtids-sansan/mymodule/mymint/types"
 )
 
 // Keeper 负责数据存储
