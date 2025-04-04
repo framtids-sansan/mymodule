@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"mymint/keeper"
-	"mymint/types"
+	"github.com/framtids-sansan/mymodule/mymint/keeper"
+	"github.com/framtids-sansan/mymodule/mymint/types"
 )
 
 // 模块结构体
