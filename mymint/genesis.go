@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	//"mymint/keeper"
-	"mymint/types"
+	"github.com/framtids-sansan/mymodule/mymint/types"
 )
 
 // 初始状态
